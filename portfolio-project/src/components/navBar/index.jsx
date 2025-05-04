@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar__container">
         <a
-          href='/JisanResume.pdf'
+          href='/ResumeJisan.pdf'
           download
           className="navbar__resume-link"
         >
