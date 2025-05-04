@@ -1,0 +1,38 @@
+.navbar {
+    width: 100%;
+    padding: 20px 40px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+  
+    &__container {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+    }
+  
+    &__resume-link {
+      color: var(--yellow-theme-main-color); // Or any color you use
+      font-size: 2rem;
+      font-weight: 700;
+      position: relative;
+      text-decoration: none;
+  
+      &::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: -4px;
+        width: 0;
+        height: 2px;
+        background-color: var(--yellow-theme-main-color); // same as text color
+        transition: width 0.4s ease;
+      }
+  
+      &:hover::after {
+        width: 100%;
+      }
+    }
+  }
+  
