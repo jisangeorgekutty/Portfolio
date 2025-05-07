@@ -27,7 +27,7 @@ const portfolioData = [
   {
     id: 4,
     name: "Music Player",
-    desc: "Ana web-based music player for seamless audio streaming, built with Node.js, JavaScript, Handlebars, MongoDB, Express, HTML, and CSS. Features include user authentication, playlist management, and anintuitive UI for an enhanced listening experience.",
+    desc: "An a web-based music player for seamless audio streaming, built with Node.js, JavaScript, Handlebars, MongoDB, Express, HTML, and CSS. Features include user authentication, playlist management, and anintuitive UI for an enhanced listening experience.",
     sourcelink: "https://github.com/jisangeorgekutty/Music-Player",
     demolink: ""
   },
