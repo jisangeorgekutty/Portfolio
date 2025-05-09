@@ -6,8 +6,8 @@ const portfolioData = [
   {
     id: 1,
     name: "Mock Master",
-    desc: "A platform to help job seekers prepare for interviews through real-world simulations. Built with React,Next.js, Drizzle ORM, and Clerk, offering an interactive and seamless user experience for mock interviews.",
-    sourcelink: "https://github.com/jisangeorgekutty/ai-mock-interview",
+    desc: "An interactive web application that simulates real-world interviews with AI-generated questions,automated feedback, and real-time facial expression analysis to help users improve their performance. Built using React.js, Next.js, Node.js, Express, and MongoDB, and integrated Gemini API for dynamic question generation and deep learning models for emotion recognition.",
+    sourcelink: "https://github.com/jisangeorgekutty/Ai-Mock-Interview",
     demolink: ""
   },
   {
