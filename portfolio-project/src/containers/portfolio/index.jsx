@@ -6,14 +6,14 @@ const portfolioData = [
   {
     id: 1,
     name: "Mock Master",
-    desc: "An interactive web application that simulates real-world interviews with AI-generated questions,automated feedback, and real-time facial expression analysis to help users improve their performance. Built using React.js, Next.js, Node.js, Express, and MongoDB, and integrated Gemini API for dynamic question generation and deep learning models for emotion recognition.",
+    desc: "An interactive web app simulating real-world interviews with AI-generated questions, instant feedback, and real-time facial expression analysis. Built with React, Next.js, Node.js, Express, and MongoDB, using Gemini API and deep learning for question generation and emotion detection.",
     sourcelink: "https://github.com/jisangeorgekutty/Ai-Mock-Interview",
     demolink: ""
   },
   {
     id: 2,
     name: "Chat Application",
-    desc: "A real-time chat application enabling users to send and receive messages instantly. Utilized WebSockets for live communication, implemented user interface with React and Vite, and managed data persistence using MongoDB and Express on the backend.",
+    desc: "A real-time chat application that allows users to send and receive messages instantly using WebSockets for live communication. The frontend is built with React and Vite for a fast, responsive UI, while the backend uses Express and MongoDB to handle data persistence and user interactions efficiently.",
     sourcelink: "https://github.com/jisangeorgekutty/Chat-Application",
     demolink: ""
   },
