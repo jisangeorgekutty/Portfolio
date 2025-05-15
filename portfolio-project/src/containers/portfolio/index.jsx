@@ -95,7 +95,7 @@ const Portfolio = () => {
                 {index === hoveredValue && (
                   <div>
                     <button onClick={() => window.open(item.sourcelink, "_blank")}>Source</button>
-                    <button>Demo</button>
+                    {/* <button>Demo</button> */}
                   </div>
                 )}
               </div>
