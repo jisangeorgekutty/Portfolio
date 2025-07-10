@@ -59,6 +59,13 @@ const portfolioData = [
     sourcelink: "https://github.com/jisangeorgekutty/olx-project",
     demolink: ""
   },
+   {
+    id: 9,
+    name: "Blog Application",
+    desc: "Developed a full-stack blog platform using Next.js with server-side rendering and API routes. Built a dynamic admin dashboard for managing posts (create, update, delete) and integrated MongoDB for data persistence. Styled the UI using Tailwind CSS for responsive design.",
+    sourcelink: "https://github.com/jisangeorgekutty/Blog-Web-Application",
+    demolink: ""
+  },
 ];
 
 const Portfolio = () => {
